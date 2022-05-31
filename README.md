@@ -1,5 +1,5 @@
 ## About this Project
-Projeto desenvolvido durante as aulas de **T**ópicos **A**vançados em **I**nformática no curso técnico integrado do IFSC 2022
+Projeto desenvolvido por Julia Cacciatori e Emanuele de Freitas durante as aulas de **T**ópicos **A**vançados em **I**nformática no curso técnico integrado do IFSC 2022 
 
 ## Comandos Básicos Úteis do Git
 
